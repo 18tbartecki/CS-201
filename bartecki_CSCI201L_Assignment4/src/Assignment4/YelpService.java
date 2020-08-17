@@ -16,8 +16,7 @@ public class YelpService extends DefaultApi20 {
 	private static final String API_HOST = "api.yelp.com";
 	private static final String SEARCH_PATH = "/v3/businesses/search";
 	
-	private static final String API_KEY = "dXI8FYupCJcQKUxo_e5KxGVJGo0__5FIsfzgiCsQoyiUeqlmk1a4r1uYxy4li7Q7Y_1vbKX9hvjbQ6zJQFP8gdPXdvBTVuG3ea8znoDwbwgu2dMAtiEMmsRfqUl4XnYx";
-	
+	private static final String API_KEY = config.my_key;
 	
 	//Must be implemented as they are abstract
 	public String getAccessTokenEndpoint() {
