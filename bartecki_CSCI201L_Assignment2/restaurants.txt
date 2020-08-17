@@ -1,0 +1,45 @@
+{
+  "data": [
+    {
+      "name": "Boba Guys",
+      "address": "1670 Beverly Blvd",
+      "latitude": 34.063950,
+      "longitude": -118.265360,
+      "drivers": 2,
+      "menu": [
+          "strawberry matcha milk tea",
+          "black sesame latte",
+          "thai tea"
+        ]
+    },
+    {
+      "name": "Twinkle Brown Sugar",
+      "address": "131 S Central Ave",
+      "latitude": 34.048160,
+      "longitude": -118.239240,
+      "drivers": 1,
+      "menu": [
+          "brown sugar milk tea",
+          "mango tango green tea",
+          "rose lychee green tea",
+          "brown sugar fluffy coffee",
+          "sea salt iced coffee",
+          "strawberry green milk tea"
+        ]
+    },
+    {
+      "name": "One Zo",
+      "address": "500 N Atlantic Blvd",
+      "latitude": 34.068280,
+      "longitude": -118.133680,
+      "drivers": 1,
+      "menu": [
+          "one zo boba milk tea",
+          "caramel milk tea",
+          "honey green tea",
+          "one zo fruit tea"
+        ]
+      
+    }
+  ]
+}

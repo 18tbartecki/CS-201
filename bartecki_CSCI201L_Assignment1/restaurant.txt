@@ -1,0 +1,68 @@
+{
+  "data" : [
+    {
+      "name": "Northern Cafe",
+      "address": "2904 S Figueroa Street",
+      "latitude": 34.025550,
+      "longitude": -118.277440,
+      "menu": [
+          "orange chicken",
+          "rice",
+          "noodles",
+          "dumplings"
+        ]
+    },
+    {
+      "name": "The Lab Gastropub",
+      "address": "3500 S Figueroa Street",
+      "latitude": 34.019940,
+      "longitude": -118.280530,
+      "menu": [
+          "fried chicken",
+          "chicken sandwich",
+          "spinach dip",
+          "cheeseburger",
+          "fries",
+          "milkshake"
+        ]
+    },
+    {
+      "name": "Taco Bell",
+      "address": "3629 S Vermont Ave",
+      "latitude": 34.022360,
+      "longitude": -118.291850,
+      "menu": [
+          "chicken taco",
+          "beef taco",
+          "fries",
+          "soda",
+          "cheese dipping sauce"
+        ]
+      
+    },
+    {
+      "name": "Northern Cafe",
+      "address": "2904 S Figueroa Street",
+      "latitude": 34.025550,
+      "longitude": -118.277440,
+      "menu": [
+          "orange chicken",
+          "rice",
+          "noodles",
+          "dumplings"
+        ]
+    },
+    {
+      "name": "Northern Cafe",
+      "address": "2904 S Figueroa Street",
+      "latitude": 34.025550,
+      "longitude": -118.277440,
+      "menu": [
+          "orange chicken",
+          "rice",
+          "noodles",
+          "dumplings"
+        ]
+    }
+  ]
+}
